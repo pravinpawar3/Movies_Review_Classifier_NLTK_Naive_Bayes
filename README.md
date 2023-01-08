@@ -1,1 +1,3 @@
-# Movies-Review-Classifier-NLTK-Naive-Bayes-
+# Movies-Review-Classifier-NLTK-Naive-Bayes
+
+![](Results.png)
